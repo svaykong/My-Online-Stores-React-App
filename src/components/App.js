@@ -13,6 +13,7 @@ function App() {
         <Router>
           <Switch>
             <Route exact path='/' component={EcommercePage} />
+            <Route exact path='/home' component={EcommercePage} />
             <Route path='*' component={() => <h1>404 Page Not Found!</h1>} />
           </Switch>
         </Router>
