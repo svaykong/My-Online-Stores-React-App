@@ -8,7 +8,6 @@ import FooterPage from './layouts/FooterPage';
 function App() {
   return (
     <div>
-      <NavbarPage />
       <MDBContainer className='text-center mt-5 pt-5'>
         <Router>
           <Switch>
