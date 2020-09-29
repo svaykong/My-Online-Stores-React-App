@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/My-Online-Stores-React-App/static/css/main.d498bfb3.chunk.css",
+    "main.js": "/My-Online-Stores-React-App/static/js/main.f6048e95.chunk.js",
+    "main.js.map": "/My-Online-Stores-React-App/static/js/main.f6048e95.chunk.js.map",
+    "runtime-main.js": "/My-Online-Stores-React-App/static/js/runtime-main.3e2f3e29.js",
+    "runtime-main.js.map": "/My-Online-Stores-React-App/static/js/runtime-main.3e2f3e29.js.map",
+    "static/css/2.4e506f91.chunk.css": "/My-Online-Stores-React-App/static/css/2.4e506f91.chunk.css",
+    "static/js/2.cb44ca43.chunk.js": "/My-Online-Stores-React-App/static/js/2.cb44ca43.chunk.js",
+    "static/js/2.cb44ca43.chunk.js.map": "/My-Online-Stores-React-App/static/js/2.cb44ca43.chunk.js.map",
+    "index.html": "/My-Online-Stores-React-App/index.html",
+    "precache-manifest.4aeac232f70be24d8f342ae79de98e8f.js": "/My-Online-Stores-React-App/precache-manifest.4aeac232f70be24d8f342ae79de98e8f.js",
+    "service-worker.js": "/My-Online-Stores-React-App/service-worker.js",
+    "static/css/2.4e506f91.chunk.css.map": "/My-Online-Stores-React-App/static/css/2.4e506f91.chunk.css.map",
+    "static/css/main.d498bfb3.chunk.css.map": "/My-Online-Stores-React-App/static/css/main.d498bfb3.chunk.css.map",
+    "static/js/2.cb44ca43.chunk.js.LICENSE.txt": "/My-Online-Stores-React-App/static/js/2.cb44ca43.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/My-Online-Stores-React-App/static/media/default-skin.b257fa9c.svg",
+    "static/media/all.min.css": "/My-Online-Stores-React-App/static/media/fa-solid-900.ee09ad75.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e2f3e29.js",
+    "static/css/2.4e506f91.chunk.css",
+    "static/js/2.cb44ca43.chunk.js",
+    "static/css/main.d498bfb3.chunk.css",
+    "static/js/main.f6048e95.chunk.js"
+  ]
+}
