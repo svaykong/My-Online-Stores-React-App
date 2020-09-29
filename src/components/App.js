@@ -8,13 +8,17 @@ import FooterPage from './layouts/FooterPage';
 function App() {
   return (
     <div>
-      {/* <NavbarPage /> */}
+      <NavbarPage />
       <MDBContainer className='text-center mt-5 pt-5'>
         <Router>
           <Switch>
             <Route exact path='/' component={EcommercePage} />
             <Route exact path='/home' component={EcommercePage} />
-            <Route path='*' component={() => <h1>404 Page Not Found!</h1>} />
+            <Route
+              exact
+              path='*'
+              component={() => <h1>404 Page Not Found!</h1>}
+            />
           </Switch>
         </Router>
       </MDBContainer>
