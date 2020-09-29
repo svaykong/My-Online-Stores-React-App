@@ -12,6 +12,7 @@ import {
   MDBTooltip,
 } from 'mdbreact';
 import CarouselPage from './CarouselPage';
+import NavbarPage from './layouts/NavbarPage';
 
 const EcommercePage = () => {
   return (
